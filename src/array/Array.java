@@ -3,7 +3,6 @@ package array;
 import java.util.Scanner;
 
 /**
- *This class +++ Insert class description here +++
  *
  * @author Harpuneet
  */
@@ -32,7 +31,7 @@ public class Array {
         for(int i=0; i< word.length(); i++)
             System.out.print(newArray[i]);
         
-        System.out.println();
+        System.out.print("\n");
     }
 
 }
